@@ -12,7 +12,7 @@
 
 # TUTORIAL ⭐
 **step 1**
-Please change the webhook in main.py to your own webhook.
+Please change the webhook in main.py to your own discord webhook url.
 ![image](https://github.com/user-attachments/assets/769607db-19a5-4e80-9c4e-e2cefd47364e)
 
 **step 2**
