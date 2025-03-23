@@ -56,5 +56,8 @@ ls
 ```
 python setup.py
 ```
+```
+python serpent.py
+```
 # WINDOWS ✅
 # KALI LINUX ❌
