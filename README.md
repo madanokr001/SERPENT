@@ -1,0 +1,2 @@
+# SERPENT 🐍 V1
+**This tool is a Python-based application that collects system information and periodically sends webcam images and screenshots to a Discord webhook. It collects system data such as IP addresses, location, OS details, MAC address, and process list, sending them as an embed once, while continuously sending webcam images and screenshots thereafter. This tool can be used for security and testing purposes.**
