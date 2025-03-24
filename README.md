@@ -2,7 +2,8 @@
 **This tool is a Python-based application that collects system information and periodically sends webcam images and screenshots to a Discord webhook. It collects system data such as IP addresses, location, OS details, MAC address, and process list, sending them as an embed once, while continuously sending webcam images and screenshots thereafter. This tool can be used for security and testing purposes.**
 
 # ScreenShot 📷
-![image](https://github.com/user-attachments/assets/4a4aaca4-4ce9-440c-be68-83e4d6492704)
+![image](https://github.com/user-attachments/assets/256dd6ab-c194-42dc-a4e7-35629b0bdf0f)
+
 
 ![image](https://github.com/user-attachments/assets/219df3c0-3d9a-4358-9d17-f8c066d79585)
 
